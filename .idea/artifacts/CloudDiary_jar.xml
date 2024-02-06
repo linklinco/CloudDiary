@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CloudDiary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CloudDiary_jar</output-path>
+    <root id="archive" name="CloudDiary.jar">
+      <element id="module-output" name="CloudDiary" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+      <element id="library" level="application" name="lib" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
